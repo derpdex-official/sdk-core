@@ -20,6 +20,9 @@ export enum SupportedChainId {
 
   ZKSYNC_MAINNET = 324,
   ZKSYNC_TESTNET = 280,
+
+  BASE_TESTNET = 84531,
+  BASE_MAINNET = 8453,
 }
 
 // exports for external consumption
