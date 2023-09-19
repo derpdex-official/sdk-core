@@ -23,6 +23,9 @@ export enum SupportedChainId {
 
   BASE_TESTNET = 84531,
   BASE_MAINNET = 8453,
+
+  OPBNB_TESTNET = 5611,
+  OPBNB_MAINNET = 204,
 }
 
 // exports for external consumption
